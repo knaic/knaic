@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я Voxel!
 
-<!--
-**frzvoxel/frzvoxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я занимаюсь разработкой софта.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Мой основной стек на данный момент
+![C]([https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white]))
+
+---
+
+### Cоциальные сети
+* **YouTube:** [@frzvoxel](https://www.youtube.com/@frzvoxel)
+---
+
+### 📊 Моя статистика GitHub
+  <a href="https://github.com/MarkAdderly"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frzvoxel&layout=compact&theme=tokyonight" alt="Языки" height="150" /></a>
