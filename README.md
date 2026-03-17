@@ -13,8 +13,9 @@
 ---
 
 ### Cоциальные сети
-* **YouTube:** [@frzvoxel](https://www.youtube.com/@frzvoxel)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@frzvoxel)
 ---
 
 ### Моя статистика GitHub
   <a href="https://github.com/frzvoxel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frzvoxel&layout=compact&theme=tokyonight" alt="Языки" height="150" /></a>
+  ![](https://komarev.com/ghpvc/?username=frzvoxel&color=blue)
