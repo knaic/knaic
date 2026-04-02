@@ -19,8 +19,7 @@
 ---
 
 ### Моя статистика GitHub
-  [![Языки :D](https://github-readme-stats.vercel.app/api/top-langs/?username=frzvoxel&layout=compact&theme=tokyonight&cache=no)](https://github.com/frzvoxel)
+  [![Языки :D](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frzvoxel&layout=compact&theme=tokyonight&cache=no)](https://github.com/frzvoxel)
   ---
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=frzvoxel&show_icons=true&theme=tokyonight)](https://github.com/frzvoxel)
+  [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=frzvoxel&show_icons=true&theme=tokyonight)](https://github.com/frzvoxel)
 ---
-  ![](https://komarev.com/ghpvc/?username=frzvoxel&color=blue)
